@@ -1,0 +1,15 @@
+{
+    "message": "User created",
+    "user":{
+        "id": 8957,
+    "name": "Leona Lueilwitz IV",
+    "email": "Vickie_Pagac@hotmail.com",
+    "password": "1234",
+    "phone_number": "01507828011",
+    "nid": "1237828011",
+    "role": "Agent",
+    "createdAt": "2023-03-15T17:39:09.000Z",
+    "updatedAt": "2023-03-15T18:38:58.000Z",
+    "balance": 2131.25
+    }
+}
